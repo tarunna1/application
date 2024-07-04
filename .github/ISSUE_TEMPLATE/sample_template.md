@@ -1,7 +1,7 @@
 ---
-name: "[DATE AND DAY] Custom issue template"
+name: sample_template
 about: Issues faced with the code
-title: ''
+title: "[DATE AND DAY] Custom issue template"
 labels: ''
 assignees: ''
 
